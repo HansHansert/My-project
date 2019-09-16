@@ -1,0 +1,9 @@
+.submit-button {
+  margin-top: 10px;
+}
+body{
+	background-image: url("B.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
